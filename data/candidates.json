@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "CAN-001",
+      "name": "Candidate A",
+      "role_applied": "Automation Specialist",
+      "status": "endorsed",
+      "scores": {
+        "resume_score": 84,
+        "video_score": 79,
+        "technical_score": 81,
+        "overall_score": 81
+      },
+      "recommendation": "Proceed to client interview"
+    },
+    {
+      "candidate_id": "CAN-002",
+      "name": "Candidate B",
+      "role_applied": "Automation Specialist",
+      "status": "endorsed",
+      "scores": {
+        "resume_score": 76,
+        "video_score": 74,
+        "technical_score": 78,
+        "overall_score": 76
+      },
+      "recommendation": "Keep under consideration"
+    }
+  ]
+}
