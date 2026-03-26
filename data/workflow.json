@@ -1,0 +1,30 @@
+{
+  "workflow_name": "client_candidate_review_flow",
+  "steps": [
+    {
+      "step": 1,
+      "name": "client_login",
+      "description": "Client logs into the portal"
+    },
+    {
+      "step": 2,
+      "name": "view_endorsed_candidates",
+      "description": "Client reviews endorsed candidate list"
+    },
+    {
+      "step": 3,
+      "name": "review_candidate_profile",
+      "description": "Client checks scores, assessments, and recommendation"
+    },
+    {
+      "step": 4,
+      "name": "schedule_interview_or_decide",
+      "description": "Client schedules an interview or records a decision"
+    },
+    {
+      "step": 5,
+      "name": "notify_internal_team",
+      "description": "System notifies recruiter or operations team"
+    }
+  ]
+}
