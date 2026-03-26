@@ -1,0 +1,20 @@
+{
+  "actions": [
+    {
+      "action_id": "ACT-001",
+      "candidate_id": "CAN-001",
+      "client_id": "CL-001",
+      "action_type": "schedule_interview",
+      "scheduled_datetime": "2026-03-30T10:00:00Z",
+      "status": "confirmed"
+    },
+    {
+      "action_id": "ACT-002",
+      "candidate_id": "CAN-002",
+      "client_id": "CL-001",
+      "action_type": "mark_decision",
+      "decision": "hold",
+      "status": "submitted"
+    }
+  ]
+}
